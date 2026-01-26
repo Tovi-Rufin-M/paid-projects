@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(89, 167, 170);
+    /*background: linear-gradient(135deg, #0130ff 0%, #ffffff 50%, #e000d5 100%);*/
+    color: #000000;
+}
+.header-table {
+    background-color:  rgb(143, 182, 196);
+    /*background: linear-gradient(135deg, #4be0f7 0%, #ffffff 50%, #4be0f7 100%);*/
+    border-radius: 15px;
+}
+.img img{
+    border: 5px solid #063a3b;  
+    border-radius: 50%;
+}
+h1{
+    color: #063a3b;
+}
+h2{
+    color: #3c2570;
+}
