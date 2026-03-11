@@ -49,6 +49,7 @@
     width: 20%;
     color: #ffffff;
     text-align: center;
+    transition: transform 0.3s ease;
 }
 #projects img, #contact img {
     width: 100%;
@@ -58,6 +59,7 @@
 #projects:hover, #contact:hover {
     transform: translateY(-10px);
 }
+
 .cards a:hover {
     color: #ffffff;
     text-decoration: underline;
